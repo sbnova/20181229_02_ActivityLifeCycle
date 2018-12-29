@@ -18,6 +18,6 @@
         android:id="@+id/closeBtn"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="이전화면으로 "/>
+        android:text="이전화면 종료"/>
 
 </LinearLayout>
